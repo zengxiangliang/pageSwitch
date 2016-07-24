@@ -1,0 +1,13 @@
+html,body,.container,.page{
+	height:100%;
+}
+body{
+	overflow: hidden;
+}
+.page{
+	width:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	transition: transform .3s;
+}
